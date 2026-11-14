@@ -1,0 +1,11 @@
+
+.env
+.venv/
+Schema Style
+agent.py
+gitignore
+main.py
+requirements.tsx
+schemas.py
+tests/
+tools.py
